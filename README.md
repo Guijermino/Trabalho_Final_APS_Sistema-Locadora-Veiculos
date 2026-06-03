@@ -16,5 +16,4 @@ O sistema tem como objetivo realizar o gerenciamento de uma locadora de veículo
 
 - [Diagrama de Caso de Uso](diagramas/caso_de_uso.png)
 
-Os diagramas serão adicionados ao longo do desenvolvimento do projeto.
 
