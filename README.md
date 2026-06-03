@@ -10,7 +10,7 @@ O sistema tem como objetivo realizar o gerenciamento de uma locadora de veículo
 
 ## Documentação
 
-- [Requisitos Funcionais e Não Funcionais](./requisitos.md)
+- [Requisitos Funcionais e Não Funcionais](./requisitos)
 
 ## Diagramas
 
