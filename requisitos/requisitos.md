@@ -30,19 +30,19 @@ O sistema deve permitir consultar veículos cadastrados.
 
 O sistema deve permitir verificar a disponibilidade de veículos.
 
-## RF6 - Registrar Locação
+## RF06 - Registrar Locação
 
 O sistema deve permitir registrar uma locação.
 
-## RF7 - Registrar Devolução
+## RF07 - Registrar Devolução
 
 O sistema deve permitir registrar a devolução de veículos.
 
-## RF8 - Calcular Valor da Locação
+## RF08 - Calcular Valor da Locação
 
 O sistema deve calcular automaticamente o valor total da locação.
 
-## RF9 - Registrar Pagamento
+## RF09 - Registrar Pagamento
 
 O sistema deve permitir registrar pagamentos.
 
