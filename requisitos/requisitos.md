@@ -86,7 +86,11 @@ O código deve seguir boas práticas de orientação a objetos.
 
 # Regras de Negócio (RN)
 
-## RN01: Um veículo só poderá ser locado se estiver disponível.
+## RN01
 
-## RN02: O valor da locação deve ser calculado com base na quantidade de dias locados e na diária do veículo.
+Um veículo só poderá ser locado se estiver disponível.
+
+## RN02
+
+O valor da locação deve ser calculado com base na quantidade de dias locados e na diária do veículo.
 
