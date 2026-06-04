@@ -7,7 +7,7 @@ Guilherme Guimarães Audibert
 
 ## Documentação
 
-- [Documentação do Sistema, Requisitos Funcionais, Não Funcionais e Regras de Negócio](requisitos/requisitos.md)
+- [Descrição do Sistema, Requisitos Funcionais, Não Funcionais e Regras de Negócio](requisitos/requisitos.md)
 
 ## Diagramas
 
