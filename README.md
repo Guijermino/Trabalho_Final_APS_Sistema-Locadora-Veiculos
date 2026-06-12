@@ -12,5 +12,6 @@ Guilherme Guimarães Audibert
 ## Diagramas
 
 - [Diagrama de Caso de Uso](diagramas/caso_de_uso.png)
+- [Diagrama de Caso de Uso](diagramas/diagrama_de_classe.png)
 
 
