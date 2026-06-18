@@ -13,6 +13,6 @@ Guilherme Guimarães Audibert
 
 - [Diagrama de Caso de Uso](diagramas/caso_de_uso.png)
 - [Diagrama de Classe](diagramas/diagrama_de_classe.png)
-- [Diagrama de Classe](diagramas/diagrama_de_atividades.png)
+- [Diagrama de Atividades](diagramas/diagrama_de_atividades.png)
 
 
