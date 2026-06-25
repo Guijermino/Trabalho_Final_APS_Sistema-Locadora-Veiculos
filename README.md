@@ -19,4 +19,4 @@ Guilherme Guimarães Audibert
 ## Protótipo do Sistema
 
 - [Mapa do Site](prototipo_do_sistema/mapa_do_site.png)
-- [Mapa do Site](prototipo_do_sistema/mockups.png)
+- [Mockups](prototipo_do_sistema/mockups.png)
