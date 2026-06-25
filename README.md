@@ -18,7 +18,7 @@ Guilherme Guimarães Audibert
 
 ## Protótipo do Sistema
 
-- [Mapa do Site](prototipo_do_site/mapa_do_site.png)
+- [Mapa do Site](prototipo_do_sistema/mapa_do_site.png)
 - [Diagrama de Classe](diagramas/diagrama_de_classe.png)
 
 
